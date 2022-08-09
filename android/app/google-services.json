@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041468616094",
+    "project_id": "hotelmangementreactnative",
+    "storage_bucket": "hotelmangementreactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041468616094:android:c928783dc14e2712557a8f",
+        "android_client_info": {
+          "package_name": "com.hotelmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041468616094-dincbmcombp83mkab792v1014u8k51o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIcCicrtOYaBSeElgnej4BLbrKErPUbS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041468616094-dincbmcombp83mkab792v1014u8k51o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
